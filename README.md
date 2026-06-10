@@ -23,6 +23,6 @@ Computer Vision, and ML Test Analyst roles in Australia.
 
 ## 📫 Connect
 
-[![LinkedIn](https://www.linkedin.com/in/chandansrinivasb236b113a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)(https://www.linkedin.com/in/chandansrinivasb236b113a/)]
 📧 chandansrinivas02@gmail.com
 📍 Sydney, Australia
